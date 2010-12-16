@@ -21,3 +21,10 @@ following:
 
 ![Screenshot](https://github.com/E-NOISE/wp-update-urls/raw/master/wp-update-urls.png)
 
+4. Check that the 'replace' field shows the _new_ base URL for your site. Bear
+in mind that http://www.yoursite.com is not the same as http://yoursite.com.
+
+5. Click on 'Process' to replace all occurrences of 'search' with 'replace' in
+the database.
+
+6. DELETE SCRIPT FROM SERVER
