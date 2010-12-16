@@ -19,5 +19,5 @@ http://yoursite.com then the URL you are looking for will be
 http://yoursite.com/wp-update-urls.php . At this point you should see the
 following:
 
-![Screenshot](https://gith//github.com/E-NOISE/wp-update-urls/raw/master/wp-update-urls.png)
+![Screenshot](https://github.com/E-NOISE/wp-update-urls/raw/master/wp-update-urls.png)
 
