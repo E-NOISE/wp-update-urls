@@ -13,3 +13,11 @@ location.
 
 2. Upload wp-update-urls.php to your WordPress installation directory. This is
 where the wp-config.php file lives.
+
+3. Browse the wp-update-urls.php script on your browser. If your site's URL is
+http://yoursite.com then the URL you are looking for will be
+http://yoursite.com/wp-update-urls.php . At this point you should see the
+following:
+
+![Screenshot](https://gith//github.com/E-NOISE/wp-update-urls/raw/master/wp-update-urls.png)
+
